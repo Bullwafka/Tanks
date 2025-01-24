@@ -1,0 +1,1 @@
+{"id":"DefaultEnemyBehaviourConfig","forwardMoveDuration":{"minValue":1.0,"maxValue":2.0},"backwardMoveDuration":{"minValue":0.5,"maxValue":0.75},"rotatedMoveDuration":{"minValue":1.5,"maxValue":2.5},"rotationDuration":{"minValue":1.0,"maxValue":2.5},"idleStateDuration":{"minValue":1.0,"maxValue":3.0}}
